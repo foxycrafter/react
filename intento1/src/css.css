@@ -1,0 +1,13 @@
+.Card{
+    background-color: aqua;
+    width: auto;
+    text-align: justify;
+}
+.bg-true{
+    background-color: greenyellow;
+    text-align: right;
+}
+.bg-false{
+    background-color: red;
+    text-align: left;
+}
